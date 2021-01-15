@@ -1,0 +1,3 @@
+/home/sergio/Projects/Informatics/Olymp2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sergio/Projects/Informatics/Olymp2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sergio/Projects/Informatics/Olymp2/cmake-build-debug/CMakeFiles/Olymp2.dir
