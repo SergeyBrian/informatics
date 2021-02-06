@@ -31,6 +31,7 @@ int main () {
 			cout << endl << f((a+b)/2);
 			break;
 		case 2:
+
 			break;
 		case 3:
 			break;
