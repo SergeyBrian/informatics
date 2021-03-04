@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/home/sergio/Projects/Informatics/KR/main.cpp
+C:/Users/sergio/Projects/KR/main.cpp
 iostream
+-
+cmath
 -
 fstream
 -
-string
--
-cmath
+ctime
 -
 

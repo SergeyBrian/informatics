@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/KR.dir/main.cpp.o"
-  "KR"
+  "CMakeFiles/KR.dir/main.cpp.obj"
+  "KR.exe"
+  "KR.exe.manifest"
+  "KR.lib"
   "KR.pdb"
 )
 
