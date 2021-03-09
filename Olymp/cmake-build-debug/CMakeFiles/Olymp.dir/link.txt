@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/Olymp.dir/main.cpp.o  -o Olymp 

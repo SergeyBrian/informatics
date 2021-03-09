@@ -1,3 +1,0 @@
-C:/Users/sergio/Projects/pointers/cmake-build-debug/CMakeFiles/pointers.dir
-C:/Users/sergio/Projects/pointers/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/sergio/Projects/pointers/cmake-build-debug/CMakeFiles/rebuild_cache.dir

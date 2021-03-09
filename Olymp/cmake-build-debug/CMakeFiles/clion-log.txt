@@ -1,4 +1,0 @@
-/home/sergio/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/202.6948.80/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/sergio/Projects/Informatics/Olymp
--- Configuring done
--- Generating done
--- Build files have been written to: /home/sergio/Projects/Informatics/Olymp/cmake-build-debug
