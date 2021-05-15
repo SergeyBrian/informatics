@@ -40,7 +40,7 @@ int main() {
     }
 
     sort(airCompanies, numberOfCompanies);
-    cout << "Enter airplane type: " << endl;
+    cout << "Enter airplane type: ";
     string requiredAirplaneType;
     cin >> requiredAirplaneType;
     int results = 0;
