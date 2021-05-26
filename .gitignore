@@ -1,4 +1,6 @@
 .idea/
 Makefile
 *.swp
+*.swo
 cmake-build-debug
+cmake-build-release
