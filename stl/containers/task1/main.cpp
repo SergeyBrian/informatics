@@ -32,7 +32,6 @@ int main() {
     auto end = numbers.end() - 1;
 
     while (true) {
-        cout << "b: " << *begin << "\t" << "e: " << *end << endl;
         if (iter == begin || iter == end) {
             numbers.pop_back();
             numbers.insert(iter, in_number);
