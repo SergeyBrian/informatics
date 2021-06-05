@@ -16,7 +16,7 @@ int main() {
     auto iter = numbers.begin();
     while (iter != numbers.end()) {
         if(*iter == number) {
-            numbers.erase(iter);
+            iter = numbers.erase(iter);
             continue;
         }
         iter++;
